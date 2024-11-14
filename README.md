@@ -8,7 +8,7 @@ Este proyecto está enfocado en el Análisis Exploratorio de Datos (EDA) y el de
 `3.13.0`
 
 ## Estructura del Proyecto
-```json
+```bash
 project-root/ 
 ├── pycache/ 
 ├── input/ 
@@ -28,7 +28,6 @@ project-root/
 
 Instala los paquetes necesarios ejecutando:
 ```bash
-Copy code
 pip install -r requirements.txt
 ```
 
