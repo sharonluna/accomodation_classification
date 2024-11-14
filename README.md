@@ -8,7 +8,7 @@ Este proyecto está enfocado en el Análisis Exploratorio de Datos (EDA) y el de
 `3.13.0`
 
 ## Estructura del Proyecto
-```bash
+```js
 project-root/ 
 ├── pycache/ 
 ├── input/ 
